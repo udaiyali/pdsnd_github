@@ -7,7 +7,4 @@ Bikeshare Data Project using R
 ### Description
 We analyse the data provided by Lyft. The data includes the Bike-share of people using the bikes in a given time period. We analyse what factors affect the duration of the rides and how to improve them based on the past data.
 
-### Files used
-Chicago.csv
-new_york_city.csv
-washington.csv
+
