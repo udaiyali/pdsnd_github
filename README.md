@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+30.05.2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Project using R
 
 ### Description
-Describe what your project is about and what it does
+We analyse the data provided by Lyft. The data includes the Bike-share of people using the bikes in a given time period. We analyse what factors affect the duration of the rides and how to improve them based on the past data.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Chicago.csv
+new_york_city.csv
+washington.csv
